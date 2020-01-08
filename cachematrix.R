@@ -5,7 +5,6 @@
 # Gets the value of the input matrix
 # Sets the inverse of the matrix
 # Gets the inverse of the matrix
-
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
   set <- function(y) {
